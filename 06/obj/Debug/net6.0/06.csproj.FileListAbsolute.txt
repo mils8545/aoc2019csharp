@@ -1,0 +1,15 @@
+\\atco\homedrive\edm3\X4HC$\My Documents\Dev\aoc2019csharp\06\obj\Debug\net6.0\06.csproj.AssemblyReference.cache
+\\atco\homedrive\edm3\X4HC$\My Documents\Dev\aoc2019csharp\06\obj\Debug\net6.0\06.GeneratedMSBuildEditorConfig.editorconfig
+\\atco\homedrive\edm3\X4HC$\My Documents\Dev\aoc2019csharp\06\obj\Debug\net6.0\06.AssemblyInfoInputs.cache
+\\atco\homedrive\edm3\X4HC$\My Documents\Dev\aoc2019csharp\06\obj\Debug\net6.0\06.AssemblyInfo.cs
+\\atco\homedrive\edm3\X4HC$\My Documents\Dev\aoc2019csharp\06\obj\Debug\net6.0\06.csproj.CoreCompileInputs.cache
+\\atco\homedrive\edm3\X4HC$\My Documents\Dev\aoc2019csharp\06\bin\Debug\net6.0\06.exe
+\\atco\homedrive\edm3\X4HC$\My Documents\Dev\aoc2019csharp\06\bin\Debug\net6.0\06.deps.json
+\\atco\homedrive\edm3\X4HC$\My Documents\Dev\aoc2019csharp\06\bin\Debug\net6.0\06.runtimeconfig.json
+\\atco\homedrive\edm3\X4HC$\My Documents\Dev\aoc2019csharp\06\bin\Debug\net6.0\06.dll
+\\atco\homedrive\edm3\X4HC$\My Documents\Dev\aoc2019csharp\06\bin\Debug\net6.0\06.pdb
+\\atco\homedrive\edm3\X4HC$\My Documents\Dev\aoc2019csharp\06\obj\Debug\net6.0\06.dll
+\\atco\homedrive\edm3\X4HC$\My Documents\Dev\aoc2019csharp\06\obj\Debug\net6.0\refint\06.dll
+\\atco\homedrive\edm3\X4HC$\My Documents\Dev\aoc2019csharp\06\obj\Debug\net6.0\06.pdb
+\\atco\homedrive\edm3\X4HC$\My Documents\Dev\aoc2019csharp\06\obj\Debug\net6.0\06.genruntimeconfig.cache
+\\atco\homedrive\edm3\X4HC$\My Documents\Dev\aoc2019csharp\06\obj\Debug\net6.0\ref\06.dll

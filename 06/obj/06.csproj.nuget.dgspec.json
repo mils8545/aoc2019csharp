@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\atco\\homedrive\\edm3\\X4HC$\\My Documents\\Dev\\aoc2019csharp\\06\\06.csproj": {}
+  },
+  "projects": {
+    "\\\\atco\\homedrive\\edm3\\X4HC$\\My Documents\\Dev\\aoc2019csharp\\06\\06.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\atco\\homedrive\\edm3\\X4HC$\\My Documents\\Dev\\aoc2019csharp\\06\\06.csproj",
+        "projectName": "06",
+        "projectPath": "\\\\atco\\homedrive\\edm3\\X4HC$\\My Documents\\Dev\\aoc2019csharp\\06\\06.csproj",
+        "packagesPath": "C:\\Users\\X4HC\\.nuget\\packages\\",
+        "outputPath": "\\\\atco\\homedrive\\edm3\\X4HC$\\My Documents\\Dev\\aoc2019csharp\\06\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\X4HC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
