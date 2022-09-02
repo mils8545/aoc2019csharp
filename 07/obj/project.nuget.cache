@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aexgPcps472Ry2C7yFgPjAfEuhL4ZzV76t0zG0FbgyqVDjf/VobEFc+LQVIJCOJgG6RmtXRc7ovDFvZC+dQxww==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\aoc2019csharp\\07\\07.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miliw\\.nuget\\packages\\combinatorics\\2.0.0\\combinatorics.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
