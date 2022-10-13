@@ -32,7 +32,6 @@
 
 class Program
 {
-
     static string part1(System.Collections.Generic.IEnumerable<String> lines)
     {
         const int WIDTH = 25;

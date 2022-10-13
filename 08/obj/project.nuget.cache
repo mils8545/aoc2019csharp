@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "6Vgzf5knE+kqc2FYwQbuZSN0pvYK2ok7CDWGhJW6bkzyAl4qcQIQV7YgqxbQ5FdkxX/JIsKG+58hVcdHvgTMCQ==",
   "success": true,
   "projectFilePath": "C:\\dev\\aoc2019csharp\\08\\08.csproj",
+=======
+  "dgSpecHash": "vxEqBCLFDhUM5Z36vwr0otTetqqlDWqeXuQge9qbuygJ/11K3k5V1mIVlJLUA+64T0AVmy8wqzxLTBvd/kvvBg==",
+  "success": true,
+  "projectFilePath": "\\\\atco\\homedrive\\edm3\\X4HC$\\My Documents\\Dev\\aoc2019csharp\\08\\08.csproj",
+>>>>>>> a9dd2764ff309144cfeea06c3e8527002fb17cdd
   "expectedPackageFiles": [],
   "logs": []
 }

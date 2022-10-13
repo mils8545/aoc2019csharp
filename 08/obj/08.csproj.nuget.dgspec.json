@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\dev\\aoc2019csharp\\08\\08.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\miliw\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "\\\\atco\\homedrive\\edm3\\X4HC$\\My Documents\\Dev\\aoc2019csharp\\08\\08.csproj": {}
+  },
+  "projects": {
+    "\\\\atco\\homedrive\\edm3\\X4HC$\\My Documents\\Dev\\aoc2019csharp\\08\\08.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\atco\\homedrive\\edm3\\X4HC$\\My Documents\\Dev\\aoc2019csharp\\08\\08.csproj",
+        "projectName": "08",
+        "projectPath": "\\\\atco\\homedrive\\edm3\\X4HC$\\My Documents\\Dev\\aoc2019csharp\\08\\08.csproj",
+        "packagesPath": "C:\\Users\\X4HC\\.nuget\\packages\\",
+        "outputPath": "\\\\atco\\homedrive\\edm3\\X4HC$\\My Documents\\Dev\\aoc2019csharp\\08\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\X4HC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> a9dd2764ff309144cfeea06c3e8527002fb17cdd
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,8 +60,12 @@
             "net47",
             "net471",
             "net472",
+<<<<<<< HEAD
             "net48",
             "net481"
+=======
+            "net48"
+>>>>>>> a9dd2764ff309144cfeea06c3e8527002fb17cdd
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -53,7 +74,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+>>>>>>> a9dd2764ff309144cfeea06c3e8527002fb17cdd
         }
       }
     }
