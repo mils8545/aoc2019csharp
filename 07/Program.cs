@@ -156,7 +156,7 @@ class Program
     static string part1(System.Collections.Generic.IEnumerable<String> lines)
     {
         int maxOutput = 0;
-        int[] phases = new int[] { 5, 6, 7, 8, 9 };
+        int[] phases = new int[] { 0, 1, 2, 3, 4 };
 
         foreach (IList<int> phaseSettings in new Combinatorics.Collections.Permutations<int>(phases))
         {
