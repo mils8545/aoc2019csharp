@@ -1,0 +1,15 @@
+C:\dev\aoc2019csharp\10\bin\Debug\net6.0\10.exe
+C:\dev\aoc2019csharp\10\bin\Debug\net6.0\10.deps.json
+C:\dev\aoc2019csharp\10\bin\Debug\net6.0\10.runtimeconfig.json
+C:\dev\aoc2019csharp\10\bin\Debug\net6.0\10.dll
+C:\dev\aoc2019csharp\10\bin\Debug\net6.0\10.pdb
+C:\dev\aoc2019csharp\10\obj\Debug\net6.0\10.csproj.AssemblyReference.cache
+C:\dev\aoc2019csharp\10\obj\Debug\net6.0\10.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\aoc2019csharp\10\obj\Debug\net6.0\10.AssemblyInfoInputs.cache
+C:\dev\aoc2019csharp\10\obj\Debug\net6.0\10.AssemblyInfo.cs
+C:\dev\aoc2019csharp\10\obj\Debug\net6.0\10.csproj.CoreCompileInputs.cache
+C:\dev\aoc2019csharp\10\obj\Debug\net6.0\10.dll
+C:\dev\aoc2019csharp\10\obj\Debug\net6.0\refint\10.dll
+C:\dev\aoc2019csharp\10\obj\Debug\net6.0\10.pdb
+C:\dev\aoc2019csharp\10\obj\Debug\net6.0\10.genruntimeconfig.cache
+C:\dev\aoc2019csharp\10\obj\Debug\net6.0\ref\10.dll
