@@ -281,15 +281,6 @@ class Program
             }
         }
 
-        // long maxPeriod = Math.Max(period_x, Math.Max(period_y, period_z));
-
-        // long lcm = maxPeriod;
-
-        // while (lcm % period_x != 0 || lcm % period_y != 0 || lcm % period_z != 0)
-        // {
-        //     lcm += maxPeriod;
-        // }
-
         long result = lcm(period_x, lcm(period_y, period_z));
 
         return $"The system repeats itself after {result} steps.";
